@@ -1,0 +1,6 @@
+export default {
+    name: '',
+    mode: WebGLRenderingContext.POINTS,
+    num: 50000,
+    text: ``,
+};
